@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3877c94-5cf4-40a5-adff-170343bc8f25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/stock-client" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Unnamed" pattern="*dao*" />
+  </component>
+  <component name="ProjectId" id="1VrAp65EGcYSUnLewkJqr6YalXk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../kotlin-koans" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2551724" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2487757" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.diskostu.reactivespringboot.stockclient" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="de.diskostu.reactivespringboot.stockclient" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WebClientStockClientIntegrationTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebClientStockClientIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stock-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.diskostu.reactivespringboot.stockclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.diskostu.reactivespringboot.stockclient" />
+      <option name="MAIN_CLASS_NAME" value="de.diskostu.reactivespringboot.stockclient.WebClientStockClientIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockUiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stock-ui" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.diskostu.reactivespringboot.stockui.StockUiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WebClientStockClientIntegrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\i003131\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3877c94-5cf4-40a5-adff-170343bc8f25" name="Default Changelist" comment="" />
+      <created>1578001019571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578001019571</updated>
+      <workItem from="1578001020865" duration="154000" />
+      <workItem from="1578001187739" duration="263000" />
+      <workItem from="1578001467032" duration="94000" />
+      <workItem from="1578001577951" duration="875000" />
+      <workItem from="1578002479926" duration="2021000" />
+      <workItem from="1578082078193" duration="218000" />
+      <workItem from="1578082316831" duration="37000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial code (part 2 of tutorial finished)">
+      <created>1578003208719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578003208719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/stock-client" />
+    </ignored-roots>
+    <MESSAGE value="DeKl: new branch for Universal release 6.4.x (scheduled for R1704)" />
+    <MESSAGE value="DeKl: rename" />
+    <MESSAGE value="initial code (part 2 of tutorial finished)" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial code (part 2 of tutorial finished)" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="383" key="#Plugins" timestamp="1578002456886">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state x="522" y="383" key="#Plugins/94.0.3346.1440@94.0.3346.1440" timestamp="1578002456886" />
+    <state x="529" y="379" key="#Project_Structure" timestamp="1578001342969">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state x="529" y="379" key="#Project_Structure/94.0.3346.1440@94.0.3346.1440" timestamp="1578001342969" />
+    <state x="735" y="440" key="#com.intellij.ide.util.MemberChooser" timestamp="1578002033821">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state x="735" y="440" key="#com.intellij.ide.util.MemberChooser/94.0.3346.1440@94.0.3346.1440" timestamp="1578002033821" />
+    <state x="464" y="296" key="CommitChangelistDialog2" timestamp="1578003206722">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state x="464" y="296" key="CommitChangelistDialog2/94.0.3346.1440@94.0.3346.1440" timestamp="1578003206722" />
+    <state width="1201" height="405" key="GridCell.Tab.0.bottom" timestamp="1578004638255">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state width="1201" height="405" key="GridCell.Tab.0.bottom/94.0.3346.1440@94.0.3346.1440" timestamp="1578004638255" />
+    <state width="1201" height="405" key="GridCell.Tab.0.center" timestamp="1578004638255">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state width="1201" height="405" key="GridCell.Tab.0.center/94.0.3346.1440@94.0.3346.1440" timestamp="1578004638255" />
+    <state width="1201" height="405" key="GridCell.Tab.0.left" timestamp="1578004638255">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state width="1201" height="405" key="GridCell.Tab.0.left/94.0.3346.1440@94.0.3346.1440" timestamp="1578004638255" />
+    <state width="1201" height="405" key="GridCell.Tab.0.right" timestamp="1578004638255">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state width="1201" height="405" key="GridCell.Tab.0.right/94.0.3346.1440@94.0.3346.1440" timestamp="1578004638255" />
+    <state width="1206" height="497" key="GridCell.Tab.1.bottom" timestamp="1578001977949">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state width="1206" height="497" key="GridCell.Tab.1.bottom/94.0.3346.1440@94.0.3346.1440" timestamp="1578001977949" />
+    <state width="1206" height="497" key="GridCell.Tab.1.center" timestamp="1578001977948">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state width="1206" height="497" key="GridCell.Tab.1.center/94.0.3346.1440@94.0.3346.1440" timestamp="1578001977948" />
+    <state width="1206" height="497" key="GridCell.Tab.1.left" timestamp="1578001977948">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state width="1206" height="497" key="GridCell.Tab.1.left/94.0.3346.1440@94.0.3346.1440" timestamp="1578001977948" />
+    <state width="1206" height="497" key="GridCell.Tab.1.right" timestamp="1578001977949">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state width="1206" height="497" key="GridCell.Tab.1.right/94.0.3346.1440@94.0.3346.1440" timestamp="1578001977949" />
+    <state x="438" y="363" key="SettingsEditor" timestamp="1578082353914">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state x="438" y="363" key="SettingsEditor/94.0.3346.1440@94.0.3346.1440" timestamp="1578082353914" />
+    <state x="675" y="427" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578001363788">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state x="675" y="427" key="com.intellij.testIntegration.createTest.CreateTestDialog/94.0.3346.1440@94.0.3346.1440" timestamp="1578001363788" />
+    <state width="778" height="546" key="javadoc.popup.new" timestamp="1578003071120">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state width="778" height="546" key="javadoc.popup.new/94.0.3346.1440@94.0.3346.1440" timestamp="1578003071120" />
+    <state x="320" y="341" key="new project wizard" timestamp="1578082158067">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state x="320" y="341" key="new project wizard/94.0.3346.1440@94.0.3346.1440" timestamp="1578082158067" />
+    <state x="593" y="330" width="672" height="678" key="search.everywhere.popup" timestamp="1578002996884">
+      <screen x="94" y="0" width="3346" height="1440" />
+    </state>
+    <state x="593" y="330" width="672" height="678" key="search.everywhere.popup/94.0.3346.1440@94.0.3346.1440" timestamp="1578002996884" />
+  </component>
+</project>
